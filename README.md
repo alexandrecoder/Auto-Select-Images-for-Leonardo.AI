@@ -47,3 +47,62 @@
 
 ### 📜 License / Licença
 MIT License - Free for personal and commercial use
+
+---
+
+### General Description / Descrição Geral
+### 🇧🇷 **Descrição em Português**
+
+**Ferramenta de Automação para Leonardo.AI**
+
+Automatize a seleção de imagens no Leonardo.AI com esta solução leve e eficiente. Ideal para:\
+✅ **Designers** que precisam exportar múltiplas variações\
+✅ **Social Media** que trabalham com grandes volumes de conteúdo\
+✅ **Entusiastas de IA** que desejam otimizar fluxos de trabalho
+
+**Como funciona**:
+
+1.  Identifica todas as imagens não selecionadas
+
+2.  Simula cliques humanos com delays inteligentes
+
+3.  Registra o progresso em tempo real no console
+
+**Métodos de uso**:
+
+-   **Tampermonkey** (instalação permanente)
+
+-   **Console do navegador** (solução rápida)
+
+-   **Bookmarklet** (acesso com um clique)
+
+🔗 *Compatível com as últimas atualizações da plataforma*
+
+* * * * *
+
+### 🇺🇸 **English Description**
+
+**Leonardo.AI Automation Tool**
+
+Streamline your image selection process on Leonardo.AI with this lightweight automation solution. Perfect for:\
+✅ **Designers** handling multiple image variations\
+✅ **Social Media Managers** processing bulk content\
+✅ **AI Enthusiasts** optimizing creative workflows
+
+**Key features**:
+
+1.  Detects all unselected images automatically
+
+2.  Human-like interaction with smart delays
+
+3.  Real-time progress tracking in console
+
+**Usage options**:
+
+-   **Tampermonkey** (persistent installation)
+
+-   **Browser Console** (quick solution)
+
+-   **Bookmarklet** (one-click access)
+
+🔗 *Updated for latest platform changes*

@@ -4,6 +4,7 @@
 // @version      1.1
 // @description  Seleciona automaticamente todas as imagens não selecionadas no Leonardo.AI com delays inteligentes - Automatically selects all unselected images in the Leonardo.AI with smart delays
 // @author       Você
+// @match        https://app.leonardo.ai/library/*
 // @match        https://app.leonardo.ai/library
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=leonardo.ai
 // @grant        none

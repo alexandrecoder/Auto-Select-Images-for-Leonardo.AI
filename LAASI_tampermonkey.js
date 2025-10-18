@@ -1,3 +1,5 @@
+--------DESATUALIZADO--------
+
 // ==UserScript==
 // @name         Leonardo.AI - Auto Select Images
 // @namespace    http://tampermonkey.net/
